@@ -1,0 +1,32 @@
+        body {
+            background-color: #f4f4f9;
+            color: #333333;
+            font-family: arial, sans-serif;
+        }
+        h1{
+            color: red;
+            text-align: center;
+        }
+        h4{
+            color: pink;
+        }
+        a{
+            color: purple;
+        }
+        .mi-lista{
+            background-color: red;
+            border: 3px solid black;
+            padding: 20px ;
+            margin: 30px;
+            border-radius: 10px;
+            color: white;
+        }
+.flexible{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+img{
+    width: 300px;
+    border-radius: 15px;
+}
